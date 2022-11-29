@@ -13,7 +13,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>Notion Next.js blog</title>
+        <title>GCOEJ T&P blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
