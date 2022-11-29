@@ -5,6 +5,7 @@ import { getDatabase } from "../lib/notion";
 import { Text } from "./[id].js";
 import styles from "./index.module.css";
 
+
 import gcoej from '../public/gcoej.png';
 
 export const databaseId = process.env.NOTION_DATABASE_ID;
