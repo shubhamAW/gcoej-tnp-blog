@@ -24,13 +24,18 @@ export default function Home({ posts }) {
           </div>
           <h1>GCOEJ T&P Blog</h1>
           <p>
-            This is an example of a Next.js blog with data fetched with Notions
+            This is an Gcoej Training and placement blog, built it using Next.js blog with data fetched with Notions
             API. The data comes from{" "}
             <a href={`https://www.notion.so/${databaseId}`}>this table</a>. Get
             the source code on{" "}
             <a href="https://github.com/shubhamAW/gcoej-tnp-blog">
-              Github
-            </a>{" "}
+              Github 
+            </a>{" "} .
+            <br/>
+            contact developer on{" "} 
+            <a href="https://www.linkedin.com/in/shubhamaw/">
+              Linkedin
+            </a>
           </p>
         </header>
 
